@@ -1,23 +1,16 @@
-# Rotoluwa Ini – Copywriting Portfolio
+# Rotoluwa Elijah – Online Resume
 
-This repository contains the source code for my personal portfolio website.
+This repository contains my online resume.
 
-The website showcases my work as a Fintech and Insurtech Copywriter, with a focus on:
-- Website and landing page copy
-- Email marketing and onboarding flows
-- UX-aware copy for digital products
-- Clear, human communication for complex products
+It provides a concise overview of my professional background, skills, and experience as a Fintech and Insurtech-focused copywriter with UX-aware communication skills.
 
-## Live Website
+## Live Resume
 🔗 https://rotoink15-copywriting.github.io/Rotoluwa-Elijah-RotoInk-Portfolio/
 
 ## Purpose
-This portfolio is intended for recruiters, hiring managers, and companies seeking a copywriter with experience in fintech, insurance, and user-focused digital communication.
-
-## About Me
-I help fintech and insurance brands turn complex ideas into clear, persuasive messaging that builds trust and drives action.
+This resume is intended for recruiters and hiring managers reviewing my application for copywriting and marketing-related roles.
 
 ## Contact
 Email: rotoelijah15@gmail.com  
-LinkedIn: https://linkedin.com/…  
-Portfolio: https://rotoink15-copywriting.github.io/Rotoluwa-Elijah-RotoInk-Portfolio/# Rotoluwa-Elijah-Resume-
+LinkedIn: https://linkedin.com/…
+portfolio website: https://rotoink15-copywriting.github.io/Rotoluwa-Elijah-RotoInk-Portfolio/
