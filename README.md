@@ -1,4 +1,4 @@
-# Rotoluwa Ini – Online Resume
+# Rotoluwa Elijah – Online Resume
 
 This repository contains my online resume.
 
